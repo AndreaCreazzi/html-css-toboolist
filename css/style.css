@@ -89,10 +89,11 @@ li{
     width: 10px;
     height: 10px;
     border-radius: 50%;
+    padding-left: 2px;
+    padding-right: 2px;
     display: inline;
     border: 2px solid green;
     background-color: white;
-    padding: 1px;
 }
 
 .color-work{
@@ -113,7 +114,8 @@ li{
     display: inline;
     border: 2px solid rgb(255, 0, 0);
     background-color: white;
-    padding: 1px;
+    padding-left: 3px;
+    padding-right: 3px;
 }
 
 .violet{
