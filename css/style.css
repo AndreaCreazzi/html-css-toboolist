@@ -18,6 +18,10 @@ h1{
     vertical-align: middle;    
 }
 
+li{
+    margin-top: 20px;
+}
+
 /*content*/
 .container{
     width: 80%;
@@ -76,7 +80,7 @@ h1{
 }
 
 .list{
-   margin: 15px 20px; 
+   margin: 20px 20px; 
    list-style-type: none;
 }
 
@@ -92,12 +96,39 @@ h1{
 }
 
 .color-work{
-    width:10px;
+    width: 10px;
     height: 1px;
     background-color: rgb(0, 153, 255);
     border-radius: 10px;
     color: white;
     padding: 5px;
     font-style: italic;
+}
+
+.symbol-two{
+    color: red;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline;
+    border: 2px solid rgb(255, 0, 0);
+    background-color: white;
+    padding: 1px;
+}
+
+.violet{
+    background-color: violet;
+}
+
+.green{
+    background-color: green;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.lightgreen{
+    background-color: lightgreen;
 
 }
